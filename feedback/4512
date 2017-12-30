@@ -1,0 +1,569 @@
+<!--copyright (c) dela design stydio 2007 | www.dela-design.com -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Заказать часы</title><meta name="description" content="заказ, часы, оформление заказа" />
+<meta name="keywords" content="Оформление заказа в интернет магазине СТИЛЬ ТАЙМ." />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /><link href="/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/css/white.css" rel="stylesheet" type="text/css" />
+<!--[if IE]><link href="/css/ie.css" rel="stylesheet" type="text/css"><![endif]-->
+<link href="/favicon.ico" rel="shortcut icon" />
+<script type="text/javascript" src="/js/zoom.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/controls.js"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44606614 = new Ya.Metrika({
+                    id:44606614,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44606614" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNF76L"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNF76L');</script>
+<!-- End Google Tag Manager -->
+<!-- аналитика епта-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103963207-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- аналитика епта-->
+
+
+
+<div id="main">
+	<div id="stream">
+	    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+    <td></td>
+	<td class="C_" colspan="2">
+		<div id="red_top_line"><div>
+			<img src="/img/red_line_right.gif" usemap="#nav" alt="map" />
+
+		<form action="http://style-time.net/pages/google_search/" id="cse-search-box">
+		  <div>
+			<ul class="top_menu">
+				<li>
+										» <a href="/pages/aboutus">Магазин</a>
+									</li>
+				<li>
+										» <a href="/pages/payments">Оплата</a>
+									</li>
+				<li>
+										» <a href="/pages/shipping">Доставка</a>
+									</li>
+				<li>
+										» <a href="/pages/guarantee">Гарантии</a>
+									</li>
+				<li>
+										» <a href="/feedback/">Контакты</a>
+									</li>
+			</ul>
+		    <input type="hidden" name="cx" value="014892499918120978954:jqhdogiwlc8" />
+		    <input type="hidden" name="cof" value="FORID:9" />
+		    <input type="hidden" name="ie" value="Windows-1251" />
+		    <input type="text" name="q" size="18" />
+		    <input type="submit" name="sa" value="Поиск" />
+		  </div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=ru"></script>
+  </div></div>
+		
+	</td>
+	</tr>
+	<tr>
+	<td class="L">
+		<a href="/" id="logo" title="Стиль Тайм"><span>Стиль Тайм</span></a>
+	</td>
+	<td><img src="/img/head_clock.png" alt="" style="vertical-align: middle"><h2 style="vertical-align: middle;display:inline-block;width:160px;margin:0 40px 0 10px;font-size:15px;">Только  оригинальные часы</h2>
+        <img style="vertical-align: middle" src="/img/head-calendar.png" alt=""><h2 style="vertical-align: middle;display:inline-block;width:180px;margin:0 10px;font-size:15px;">14 дней возврата денег и обмена</h2>
+    </td>
+	<td class="R">
+		<div id="contacts">
+		   <span class="phone_logo"><img src="/img/mts_logo.png" alt="mts logo" /></span><span>(050)</span> 487-10-10<br/>
+		   <span class="phone_logo"><img src="/img/phone_logo.png" alt="phone logo" /></span><span>(044)</span> 361-10-10
+		   <span class="phone_logo"><img src="/img/kyivstar_logo.png" alt="kyivstar logo" /></span><span>(097)</span> 332-10-10
+		</div>
+	</td>
+	</tr>
+
+
+	    <tr>
+	<td id="menu">
+		<hr />
+		<h3>Марки</h3>
+		<ul>
+							<li class="countryName">Швейцария</li>
+															<li><a href="/models/Appella">Appella</a></li>
+																				<li><a href="/models/Atlantic">Atlantic</a></li>
+																				<li><a href="/models/adriatica">Adriatica</a></li>
+																				<li><a href="/models/Christina Design">Christina Design</a></li>
+																				<li><a href="/models/Candino">Candino</a></li>
+																				<li><a href="/models/Edox">Edox</a></li>
+																				<li><a href="/models/Frederique_Constant">Frederique Constant</a></li>
+																				<li><a href="/models/Festina">Festina</a></li>
+																				<li><a href="/models/Longines">Longines</a></li>
+																				<li><a href="/models/Louis Erard">Louis Erard</a></li>
+																				<li><a href="/models/ORIS">ORIS</a></li>
+																				<li><a href="/models/SWATCH">SWATCH</a></li>
+																				<li><a href="/models/Tissot">Tissot</a></li>
+																<li class="countryName">Европа</li>
+															<li><a href="/models/Buran">Buran</a></li>
+																				<li><a href="/models/SKAGEN">SKAGEN</a></li>
+																				<li><a href="/models/VOSTOK EUROPE">VOSTOK EUROPE</a></li>
+																				<li><a href="/models/BOCCIA">BOCCIA</a></li>
+																				<li><a href="/models/Royal London">Royal London</a></li>
+																				<li><a href="/models/Romanson">Romanson</a></li>
+																				<li><a href="/models/Guardo">Guardo</a></li>
+																				<li><a href="/models/Salvadore">Шкатулки  Salvadore</a></li>
+																				<li><a href="/models/Craft">Шкатулки CRAFT</a></li>
+																<li class="countryName">Япония</li>
+															<li><a href="/models/SEIKO">SEIKO</a></li>
+																				<li><a href="/models/Casio">Casio</a></li>
+																				<li><a href="/models/Orient">Orient</a></li>
+																<li class="countryName">США</li>
+															<li><a href="/models/TIMEX">TIMEX</a></li>
+																				<li><a href="/models/Guess">Guess</a></li>
+																				<li><a href="/models/Anne_Klein">Anne Klein</a></li>
+																<li class="countryName"></li>
+									</ul>
+		<div class="menu_bottom_left"></div>
+
+	</td>
+
+
+		<td id="content">
+				    <!--table>
+		    <tr>
+			<td id="sx">
+				<div class="def"><div>Смотрим: </div></div>
+				<div>
+					<ul>
+												<li class="here"><div>все</div></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-1">мужские</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-2"> женские</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-3">юнисекс</a></li>
+											</ul>
+				</div>
+			</td>
+			</tr>
+			<tr>
+			<td id="gold">
+				<div class="def"><div>Покрытие: </div></div>
+				<div>
+					<ul>
+												<li><a href="/search/material-7">золотое</a></li>
+						<li class="separator">|</li>
+						<li class="here"><div>любые</div></li>
+											</ul>
+				</div>
+			</td>
+			</tr>
+			<tr>
+			<td id="type">
+				<div class="def"><div>Тип: </div></div>
+				<ul>
+												<li><a href="/search/view-2">Настенные</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/view-1">Наручные</a></li>
+											</ul>
+			</td>
+			</tr>
+			</table -->
+
+						
+			<div class="feedback">
+		<h2>Отправить заявку на часы
+
+
+				ORIS Classic Date <strong>733 7594 4031 MB 8 20 61</strong>
+
+	</h2>
+		<table class="table_feedback_description">
+	<tr><td>
+    <!--
+	<dl>
+		<dt style="color: #000000;">Наши телефоны</dt>
+		<dd>(044) <strong>361-10-10</strong></dd>
+		<dd>(050) <strong>487-10-10</strong></dd>
+		<dd>(094) <strong>938-33-97</strong></dd>
+	</dl>
+-->
+	
+	</td>
+	</tr>
+	
+	</table>
+		<form method="post" action="/feedback/4512">	
+		<table border="0" width="100%" cellpadding="0" cellspacing="0" id="personaldata" bgcolor="#F3E9E3">
+			<col id="feedback1" />
+			<col id="feedback2" />
+						<tr>
+				<td colspan=2>Для оформления заказа оставьте ваши контактные данные. Наш менеджер свяжется с вами в ближайшее время для согласования способа доставки и оплаты.</td>
+			</tr>
+						<tr>
+				<td>Ваше имя</td>
+				<td><div class="input"><input name="data[Feedback][name]" type="text" maxlength="255" value="" id="FeedbackName" /></div></td>
+			</tr>
+						<tr>
+				<td>Номер телефона <span style="color:#FF0000;">*</span></td>
+				<td>
+										<div class="input required"><input name="data[Feedback][phone]" type="text" required="required" class="required" message="Поле &quot;Номер телефона&quot; обязательное" maxlength="255" value="" id="FeedbackPhone" /></div>				</td>
+			</tr>
+						<tr>
+				<td>
+					Комментарий
+					<p style="font-size: 12px;margin: 0px;">(необязательно к заполнению)</p>
+				</td>
+				<td>
+					<textarea name="data[Feedback][text]" cols="30" rows="5" id="FeedbackText" ></textarea>										<p></p>
+									</td>
+			</tr>
+			<tr class="submit">
+				<td><br /></td>
+				<td>
+				<div class="submit"><input type="submit" value="Отправить заказ" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Отправить', 'Заказ товара']);"></div>
+				</td>
+			</tr>
+		</table>
+		<span style="color:#FF0000;">*</span> - поле обязательное для заполнения
+	</form>
+	
+	<table class="table_feedback_description">
+	<tr>
+	<td style="text-align: left;">
+	    		<h2>
+
+				Часы ORIS Classic Date <strong>733 7594 4031 MB 8 20 61</strong>
+
+		</h2>
+	    <table>
+	    <tr>
+	    <td style="padding:0px;">
+			<div onclick="show_feedback('photo1');return false;" id="photo1"  style="display:none" class="feedback_zoom"><img src="/img/zoomout.gif" width="400" height="400" border="0" style="background-image:url(/i/images/thumb.large.52b8057099211.jpg)" alt="Уменьшить фото" /></div>
+    	    <a onclick="show_feedback('photo1');return false;" id="small_photo" href="/i/images/thumb.large.52b8057099211.jpg" title="Увеличить фото"><img src="/img/0.gif" class="feedback_product_img" style="background-image:url(/i/images/thumb.medium.52b8057099211.jpg); " border="1" width="220" height="220" alt="733 7594 4031 MB 8 20 61" title="733 7594 4031 MB 8 20 61"></a>
+    	    <img src="/img/zoom.gif" onclick="show_feedback('photo1');return false;" style="cursor:pointer;">
+    	</td>
+    	<td id="feedback_description">
+<!--			<div class="feedback_product_description"> -->
+				<p></p>
+				<p>Коллекция: <a href="/models/ORIS/Classic Date">Classic Date</a></p>
+				<p>Марка: <a href="/models/ORIS">ORIS</a></p>
+<!--			</div> -->
+    		
+			<p id="feedback_product_buy"><em> Цена: <strong>36217</strong> грн.</em></p>
+    	</td>
+    	</tr>
+    	</table>
+    		</td>
+	</tr>
+	
+	</table>
+    
+	
+<!--
+	<h3>Обратите внимание</h3>
+	<a href="/img/offline-1.jpg" target="_blank" title="Посмотреть крупнее (в новом окне)"><img src="/img/offline-1s.jpg" width="100" height="100" border="1" /></a>
+	<a href="/img/offline-2.jpg" target="_blank" title="Посмотреть крупнее (в новом окне)"><img src="/img/offline-2s.jpg" width="100" height="100" border="1" /></a>
+	<p>Если вам привычнее покупать не&nbsp;в&nbsp;виртуальном, а&nbsp;в&nbsp;обычном магазине, вы&nbsp;можете посетить магазин наших партнеров в&nbsp;Кировограде.</p>
+	<dl>
+		<dt>Адрес магазина</dt>
+		<dd>Украина, Кировоград, ул. Шевченко, 20/24,<br>салон часов Стиль Тайм</dd>
+		<dd>Понедельник–пятница — 10:00–18:00</dd>
+		<dd>Суббота–воскресенье — 10:00–15:00</dd>
+	</dl>
+	<div class="break"></div>
+	<h3>Полезные ссылки</h3>
+	<p><a href="http://hermetica.com.ua">ТОРЦЕВЫЕ УПЛОТНЕНИЯ ТМ "Герметика"</a></p>	
+	<p><a href="http://www.onix.ua">Разработка сайтов для Кировограда и Киева — Интернет-компания "ОНИКС"</a></p>	
+-->
+</div>						<div class="break"></div>
+					</td>
+
+	<td id="extra">
+		<div>
+		<div id="products_search">
+			<h3 class="filter_title">Фильтр</h3>
+			<form id="products_search_form" action="/products/search" method="post">
+				<select name="data[Product][view_id]" id="ProductViewId">
+<option value="0">-- Выберите вид --</option>
+<option value="1">Наручные</option>
+<option value="2">Настенные</option>
+<option value="3">Настольные</option>
+</select>				<select name="data[Product][brand_id]" id="ProductBrandId">
+<option value="">-- Производитель --</option>
+<option value="129">Adriatica</option>
+<option value="158">Anne Klein</option>
+<option value="118">Appella</option>
+<option value="146">Atlantic</option>
+<option value="145">BOCCIA</option>
+<option value="114">Buran</option>
+<option value="121">Candino</option>
+<option value="111">Casio</option>
+<option value="154">Christina Design</option>
+<option value="136">Edox</option>
+<option value="117">Festina</option>
+<option value="124">Frederique Constant</option>
+<option value="156">Guardo</option>
+<option value="155">Guess</option>
+<option value="125">Longines</option>
+<option value="128">Louis Erard</option>
+<option value="112">Orient</option>
+<option value="137">ORIS</option>
+<option value="113">Romanson</option>
+<option value="133">Royal London</option>
+<option value="157">SEIKO</option>
+<option value="149">SKAGEN</option>
+<option value="151">SWATCH</option>
+<option value="143">TIMEX</option>
+<option value="122">Tissot</option>
+<option value="144">VOSTOK EUROPE</option>
+<option value="153">Шкатулки  Salvadore</option>
+<option value="159">Шкатулки CRAFT</option>
+</select>				<select name="data[Product][type_id]" id="ProductTypeId">
+<option value="0">-- Выберите Механизм --</option>
+<option value="1">Механика</option>
+<option value="2">Кварц</option>
+<option value="3">Механика с автоподзаводом</option>
+<option value="4">С ручным заводом</option>
+</select>				<select name="data[Product][gender]" id="ProductGender">
+<option value="0">-- Пол --</option>
+<option value="1">Мужские</option>
+<option value="2">Женские</option>
+<option value="3">Унисекс</option>
+</select>				<select name="data[Product][water]" id="ProductWater">
+<option value="0">-- Водозащищенность --</option>
+<option value="1">30 м (3 BAR)</option>
+<option value="2">50 м (5 BAR)</option>
+<option value="3">100 м (10 BAR)</option>
+<option value="4">150 м (15 BAR)</option>
+<option value="5">200 м (20 BAR)</option>
+<option value="6"> 300 м (30  BAR)</option>
+<option value="7">500 м (50 BAR)</option>
+</select>				<select name="data[Product][bracelet]" id="ProductBracelet">
+<option value="0">-- Выберите браслет --</option>
+<option value="1">Ремень</option>
+<option value="2">Браслет</option>
+<option value="3">Нержавеющая сталь</option>
+<option value="4">Натуральная кожа</option>
+<option value="5">Каучук</option>
+<option value="6">Полимерный материал</option>
+<option value="7">Тканевый</option>
+</select>				<select name="data[Product][material]" id="ProductMaterial">
+<option value="0">-- Корпус --</option>
+<option value="1">Нержавеющая сталь</option>
+<option value="2">Сталь с покрытием PVD</option>
+<option value="3">Полимерный материал</option>
+<option value="4">Сталь с позолотой</option>
+<option value="5">Титан</option>
+<option value="6">Серебро</option>
+<option value="7">Золото</option>
+</select>				<div>Цена (грн):</div>
+				от <input type="text" name="data[Product][min]" value="" /> до <input type="text" name="data[Product][max]" value="" />
+			</form>
+		<input type="image" alt="Подобрать" id="submit" src="/img/search.png" name="image" onclick="getElementById('products_search_form').submit();"/>
+		</div>
+                        <div class="you_watched">
+                <h3 class="visited_pages_title">Вы смотрели</h3>
+                <div class="visited_pages_content">
+                    <p><a href='http://www.style-time.net/models/TIMEX/Calendar/Tx2k621'>TIMEX Calendar Tx2k621</a></p><p><a href='http://www.style-time.net/models/ORIS/Classic%20Date/733%207594%204031%20MB%208%2020%2061'>ORIS Classic Date 733 7594 4031 MB 8 20 61</a></p>                </div>
+                <div class="menu_bottom"></div>
+            </div>
+            		<div id="banner">
+												<a href="/models/Tissot" title="Десятки моделей на любой вкус. Tissot."><img src="/i/banners/banner4.gif" alt="Десятки моделей на любой вкус. Tissot." /></a>
+									<a href="/search/material-7" title="Золотая коллекция Стиль Тайм"><img src="/i/banners/banner1.gif" alt="Золотая коллекция Стиль Тайм" /></a>
+									</div>
+
+			<ul>
+				<li>
+										<strong>Энциклопедия</strong>
+					<ul>
+												<li>
+														<a href="/articles/5">Японские часы и все о них</a>
+													</li>
+												<li>
+														<a href="/articles/4">Швейцарские</a>
+													</li>
+												<li>
+														<a href="/articles/2">Особые функции</a>
+													</li>
+												<li>
+														<a href="/articles/3">Как выбрать</a>
+													</li>
+												<li>
+														<a href="/articles/1">Из истории</a>
+													</li>
+											</ul>
+				</li>
+				<li>
+										<a href="/dictionary"><strong>Словарь терминов</strong></a>
+									</li>
+				<li>
+										<a href="/facts"><strong>Интересно знать</strong></a>
+									</li>
+				<li>
+					<strong>Новости</strong>
+					<ul>
+												<li>
+														<a href="/news/2">Новости мира времени</a>
+													</li>
+											</ul>
+				</li>
+			</ul>
+								<div id="teaser">
+					<h3>Знаете ли вы, что&#133;</h3>
+					<p>что свою коллекцию Partners in Time компания Auguste Reymond посвятила виднейшим джазистам мира и создавала при их непосредственном участии</p>
+				</div>
+								<div class="menu_top"></div>
+								<div class="menu_bottom"></div>
+		</div>
+		<br /><br />
+		</td>
+		</tr>
+		</table>
+
+	</div>
+
+	<div id="clear"></div>
+</div>
+
+<!--
+<div id="topper">
+    <table>
+    <tr>
+    <td></td>
+	<td class="C" colspan="2">
+		<div id="red_top_line"><div>
+			<img src="/img/red_line_right.gif" usemap="#nav">
+
+		<form action="http://style-time.net/pages/google_search/" id="cse-search-box">
+		  <div>
+			<ul class="top_menu">
+				<li>
+										<a href="/pages/aboutus">Магазин</a>
+									</li>
+				<li>
+										<a href="/pages/payments">Оплата</a>
+									</li>
+				<li>
+										<a href="/pages/shipping">Доставка</a>
+									</li>
+				<li>
+										<a href="/pages/guarantee">Гарантии</a>
+									</li>
+				<li>
+										<a href="/feedback/">Контакты</a>
+									</li>
+			</ul>
+		    <input type="hidden" name="cx" value="014892499918120978954:jqhdogiwlc8" />
+		    <input type="hidden" name="cof" value="FORID:9" />
+		    <input type="hidden" name="ie" value="Windows-1251" />
+		    <input type="text" name="q" size="22" />
+		    <input type="submit" name="sa" value="Поиск" />
+		  </div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=ru"></script>
+  </div></div>
+		
+	</td>
+	<hr />
+	</tr>
+	<tr>
+	<td class="L">
+		<a href="/" id="logo" title="Стиль Тайм"><span>Стиль Тайм</span></a>
+	</td>
+	<td></td>
+	<td class="R">
+		<div id="contacts">
+		   <span>(050)</span> 487-10-10<br/>
+		   <span>(044)</span> 361-10-10
+		</div>
+	</td>
+	</tr>
+	</table>
+</div>
+-->
+
+<div id="footer"><hr />
+	<div class="C">
+		<div class="content">
+			<div style="float:left;">
+				Copyright 2007-2013 магазин часов &laquo;Стиль-Тайм&raquo;
+	<br />
+									<a href="/pages/aboutus">О интернет магазине часов</a>
+				|
+								<strong>Свяжитесь с нами</strong>
+				|
+								<a href="/map">Карта сайта</a>
+							</div>
+			<div id="baners">
+				<noindex>
+				<!-- begin of Top100 logo -->
+				<a href="http://top100.rambler.ru/home?id=1782491" style="float:left; padding:0px 15px 0px 15px;" target="_blank" rel="nofollow"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-brown2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+				<!-- end of Top100 logo -->
+				<!--Логотип статистики-->
+				<a href='http://www.stat24.meta.ua' target='_blank' rel="nofollow"><img border='0'
+				src='http://stat24.meta.ua/img/counter/9.gif' /></a>
+				<!-- stat24 clickMap --><script type='text/javascript'
+				src='http://s2.hit.stat24.com/scriptxy.js?id=nGs66If051f8FeZgznS8uPU5XqwpyG9qqzP6U7EqjZ7.27/align=center/type=percent'></script>
+				</noindex>
+				<a title="Разработка компания onix" href="http://onix.ua" rel="nofollow" id="onix_logo_ru"><span>Разработка компания onix</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+<noindex>
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1782491"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1782491" alt="" width="1" height="1" border="0" /></noscript>
+<!-- end of Top100 code -->
+<script type='text/javascript'>
+<!--
+var st24Date=(new Date()).getTime();
+var st24Src='http://ua5.hit.stat24.com/_'+st24Date;
+st24Src+='/script.js?id=';
+st24Src+='B8.r4GOtbAPtJkARMdzrs5a1rjyRXI_WTFWno038pYv.E7/l=11';
+var st24Tg='<'+'scr'+'ipt type="text/javascript" src="';
+document.writeln(st24Tg+st24Src+'"></'+'scr'+'ipt>');
+//-->
+</script>
+</noindex>
+</body>

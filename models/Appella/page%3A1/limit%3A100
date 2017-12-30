@@ -1,0 +1,1080 @@
+<!--copyright (c) dela design stydio 2007 | www.dela-design.com -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Часы APPELLA   - СТИЛЬ-ТАЙМ. </title><meta name="description" content="Оригинальные швейцарские часы Appella   с международной гарантией и бесплатной доставкой по Украине." />
+<meta name="keywords" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /><link href="/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/css/white.css" rel="stylesheet" type="text/css" />
+<!--[if IE]><link href="/css/ie.css" rel="stylesheet" type="text/css"><![endif]-->
+<link href="/favicon.ico" rel="shortcut icon" />
+<script type="text/javascript" src="/js/zoom.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/controls.js"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44606614 = new Ya.Metrika({
+                    id:44606614,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44606614" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNF76L"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNF76L');</script>
+<!-- End Google Tag Manager -->
+<!-- аналитика епта-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103963207-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- аналитика епта-->
+
+
+
+<div id="main">
+	<div id="stream">
+	    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+    <td></td>
+	<td class="C_" colspan="2">
+		<div id="red_top_line"><div>
+			<img src="/img/red_line_right.gif" usemap="#nav" alt="map" />
+
+		<form action="http://style-time.net/pages/google_search/" id="cse-search-box">
+		  <div>
+			<ul class="top_menu">
+				<li>
+										» <a href="/pages/aboutus">Магазин</a>
+									</li>
+				<li>
+										» <a href="/pages/payments">Оплата</a>
+									</li>
+				<li>
+										» <a href="/pages/shipping">Доставка</a>
+									</li>
+				<li>
+										» <a href="/pages/guarantee">Гарантии</a>
+									</li>
+				<li>
+										» <a href="/feedback/">Контакты</a>
+									</li>
+			</ul>
+		    <input type="hidden" name="cx" value="014892499918120978954:jqhdogiwlc8" />
+		    <input type="hidden" name="cof" value="FORID:9" />
+		    <input type="hidden" name="ie" value="Windows-1251" />
+		    <input type="text" name="q" size="18" />
+		    <input type="submit" name="sa" value="Поиск" />
+		  </div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=ru"></script>
+  </div></div>
+		
+	</td>
+	</tr>
+	<tr>
+	<td class="L">
+		<a href="/" id="logo" title="Стиль Тайм"><span>Стиль Тайм</span></a>
+	</td>
+	<td><img src="/img/head_clock.png" alt="" style="vertical-align: middle"><h2 style="vertical-align: middle;display:inline-block;width:160px;margin:0 40px 0 10px;font-size:15px;">Только  оригинальные часы</h2>
+        <img style="vertical-align: middle" src="/img/head-calendar.png" alt=""><h2 style="vertical-align: middle;display:inline-block;width:180px;margin:0 10px;font-size:15px;">14 дней возврата денег и обмена</h2>
+    </td>
+	<td class="R">
+		<div id="contacts">
+		   <span class="phone_logo"><img src="/img/mts_logo.png" alt="mts logo" /></span><span>(050)</span> 487-10-10<br/>
+		   <span class="phone_logo"><img src="/img/phone_logo.png" alt="phone logo" /></span><span>(044)</span> 361-10-10
+		   <span class="phone_logo"><img src="/img/kyivstar_logo.png" alt="kyivstar logo" /></span><span>(097)</span> 332-10-10
+		</div>
+	</td>
+	</tr>
+
+
+	    <tr>
+	<td id="menu">
+		<hr />
+		<h3>Марки</h3>
+		<ul>
+							<li class="countryName">Швейцария</li>
+															<li class="here">
+															<strong>Appella</strong>
+														<ul>
+																											<li><a href="/models/Appella/Automatic">Automatic</a></li>
+																																				<li><a href="/models/Appella/Chronograph">Chronograph</a></li>
+																																				<li><a href="/models/Appella/Classic">Classic</a></li>
+																																				<li><a href="/models/Appella/Dress_Watches">Dress Watches</a></li>
+																																				<li><a href="/models/Appella/Ladies_Fancy">Ladies Fancy</a></li>
+																																				<li><a href="/models/Appella/Square">Square</a></li>
+																								</ul>
+						</li>
+																				<li><a href="/models/Atlantic">Atlantic</a></li>
+																				<li><a href="/models/adriatica">Adriatica</a></li>
+																				<li><a href="/models/Christina Design">Christina Design</a></li>
+																				<li><a href="/models/Candino">Candino</a></li>
+																				<li><a href="/models/Edox">Edox</a></li>
+																				<li><a href="/models/Frederique_Constant">Frederique Constant</a></li>
+																				<li><a href="/models/Festina">Festina</a></li>
+																				<li><a href="/models/Longines">Longines</a></li>
+																				<li><a href="/models/Louis Erard">Louis Erard</a></li>
+																				<li><a href="/models/ORIS">ORIS</a></li>
+																				<li><a href="/models/SWATCH">SWATCH</a></li>
+																				<li><a href="/models/Tissot">Tissot</a></li>
+																<li class="countryName">Европа</li>
+															<li><a href="/models/Buran">Buran</a></li>
+																				<li><a href="/models/SKAGEN">SKAGEN</a></li>
+																				<li><a href="/models/VOSTOK EUROPE">VOSTOK EUROPE</a></li>
+																				<li><a href="/models/BOCCIA">BOCCIA</a></li>
+																				<li><a href="/models/Royal London">Royal London</a></li>
+																				<li><a href="/models/Romanson">Romanson</a></li>
+																				<li><a href="/models/Guardo">Guardo</a></li>
+																				<li><a href="/models/Salvadore">Шкатулки  Salvadore</a></li>
+																				<li><a href="/models/Craft">Шкатулки CRAFT</a></li>
+																<li class="countryName">Япония</li>
+															<li><a href="/models/SEIKO">SEIKO</a></li>
+																				<li><a href="/models/Casio">Casio</a></li>
+																				<li><a href="/models/Orient">Orient</a></li>
+																<li class="countryName">США</li>
+															<li><a href="/models/TIMEX">TIMEX</a></li>
+																				<li><a href="/models/Guess">Guess</a></li>
+																				<li><a href="/models/Anne_Klein">Anne Klein</a></li>
+																<li class="countryName"></li>
+									</ul>
+		<div class="menu_bottom_left"></div>
+
+	</td>
+
+
+		<td id="content">
+				    <!--table>
+		    <tr>
+			<td id="sx">
+				<div class="def"><div>Смотрим: </div></div>
+				<div>
+					<ul>
+												<li class="here"><div>все</div></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-1">мужские</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-2"> женские</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/gender-3">юнисекс</a></li>
+											</ul>
+				</div>
+			</td>
+			</tr>
+			<tr>
+			<td id="gold">
+				<div class="def"><div>Покрытие: </div></div>
+				<div>
+					<ul>
+												<li><a href="/search/material-7">золотое</a></li>
+						<li class="separator">|</li>
+						<li class="here"><div>любые</div></li>
+											</ul>
+				</div>
+			</td>
+			</tr>
+			<tr>
+			<td id="type">
+				<div class="def"><div>Тип: </div></div>
+				<ul>
+												<li><a href="/search/view-2">Настенные</a></li>
+												<li class="separator">|</li>
+												<li><a href="/search/view-1">Наручные</a></li>
+											</ul>
+			</td>
+			</tr>
+			</table -->
+
+						
+						<h1>Часы Appella</h1>
+		
+			От множества всемирно известных швейцарских часовых брендов часы <strong>Appella</strong> отличаются, в первую очередь, своей демократичностью. Основанная в 1943 году, компания на протяжении десятилетий остается верна своей философии: создавать качественную продукцию, доступную широкому кругу ценителей. Еще один из секретов неизменной популярности часов Appella &#151; приверженность их создателей классическим образцам, проверенным многими поколениями знатоков. 
+<br><br>				
+		<div class="break"></div>
+																											<br /><br />
+		<p class="h2"><span>Все модели часов Appella</span></p>
+	<div class="lenta">
+			<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Automatic/Appella_117_1102">
+                                                                        <h4> Appella Automatic </h4>
+                        <h3>117-1102</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Automatic/Appella_117_1102" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3a1599bfa05.jpg)"><img src="/i/images/thumb.medium.4f3a1599bfa05.jpg" alt="Appella Automatic 117-1102" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3122" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        7883 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Square/Appella_181_1002">
+                                                                        <h4> Appella Square </h4>
+                        <h3>181-1002</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Square/Appella_181_1002" class="photolenta" style="background-image:url(/i/images/thumb.medium.50a3648d15f9c.jpg)"><img src="/i/images/thumb.medium.50a3648d15f9c.jpg" alt="Appella Square 181-1002" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/19" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4633 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Square/Appella_181_7004">
+                                                                        <h4> Appella Square </h4>
+                        <h3>181_7004</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Square/Appella_181_7004" class="photolenta" style="background-image:url(/i/images/thumb.medium.181_7004.JPG)"><img src="/i/images/thumb.medium.181_7004.JPG" alt="Appella Square 181_7004" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/1378" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4401 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Square/Appella_215_2001">
+                                                                        <h4> Appella Square </h4>
+                        <h3>215_2001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Square/Appella_215_2001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3a1a5246d58.jpg)"><img src="/i/images/thumb.medium.4f3a1a5246d58.jpg" alt="Appella Square 215_2001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3125" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4630 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_317_2002">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>317-2002</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_317_2002" class="photolenta" style="background-image:url(/i/images/thumb.medium.50a3634d69e14.jpg)"><img src="/i/images/thumb.medium.50a3634d69e14.jpg" alt="Appella Classic 317-2002" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/34" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4350 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Dress_Watches/Appella_347_3003">
+                                                                        <h4> Appella Dress Watches </h4>
+                        <h3>347-3003</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Dress_Watches/Appella_347_3003" class="photolenta" style="background-image:url(/i/images/thumb.medium.4d88bc11a03fc.jpg)"><img src="/i/images/thumb.medium.4d88bc11a03fc.jpg" alt="Appella Dress Watches 347-3003" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/37" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        1500 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Chronograph/Appella_4003_7014">
+                                                                        <h4> Appella Chronograph </h4>
+                        <h3>4003-7014</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Chronograph/Appella_4003_7014" class="photolenta" style="background-image:url(/i/images/thumb.medium.50a3627021b28.jpg)"><img src="/i/images/thumb.medium.50a3627021b28.jpg" alt="Appella Chronograph 4003-7014" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3128" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        8421 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Chronograph/Appella_4005_2011">
+                                                                        <h4> Appella Chronograph </h4>
+                        <h3>4005-2011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Chronograph/Appella_4005_2011" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3a38bb84967.jpg)"><img src="/i/images/thumb.medium.4f3a38bb84967.jpg" alt="Appella Chronograph 4005-2011" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3129" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        8343 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4014A_4017">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4014A-4017</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4014A_4017" class="photolenta" style="background-image:url(/i/images/thumb.medium.5215ace631ffe.jpg)"><img src="/i/images/thumb.medium.5215ace631ffe.jpg" alt="Appella Ladies Fancy 4014A-4017" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/2752" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5098 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Automatic/Appella_4019_2011">
+                                                                        <h4> Appella Automatic </h4>
+                        <h3>4019-2011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Automatic/Appella_4019_2011" class="photolenta" style="background-image:url(/i/images/thumb.medium.51127c5ee4437.jpg)"><img src="/i/images/thumb.medium.51127c5ee4437.jpg" alt="Appella Automatic 4019-2011" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/4096" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        13337 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4103_1004">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4103-1004</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4103_1004" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe95eca1adbd.jpg)"><img src="/i/images/thumb.medium.4fe95eca1adbd.jpg" alt="Appella Classic 4103-1004" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3709" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4447 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4126A-4011">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4126A-4011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4126A-4011" class="photolenta" style="background-image:url(/i/images/thumb.medium.50503f0f1036a.jpg)"><img src="/i/images/thumb.medium.50503f0f1036a.jpg" alt="Appella Ladies Fancy 4126A-4011" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3858" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5235 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Automatic/Appella_417_1001">
+                                                                        <h4> Appella Automatic </h4>
+                        <h3>417-1001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Automatic/Appella_417_1001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f39229a9b1df.jpg)"><img src="/i/images/thumb.medium.4f39229a9b1df.jpg" alt="Appella Automatic 417-1001" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/42" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        6117 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4176A_1002">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4176A-1002</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4176A_1002" class="photolenta" style="background-image:url(/i/images/thumb.medium.50a3644c27477.jpg)"><img src="/i/images/thumb.medium.50a3644c27477.jpg" alt="Appella Ladies Fancy 4176A-1002" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3711" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3702 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4184A_4001">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4184A-4001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4184A_4001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe9753580b77.jpg)"><img src="/i/images/thumb.medium.4fe9753580b77.jpg" alt="Appella Ladies Fancy 4184A-4001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3713" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3602 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4200A_4001">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4200A-4001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4200A_4001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe9766a29c20.jpg)"><img src="/i/images/thumb.medium.4fe9766a29c20.jpg" alt="Appella Ladies Fancy 4200A-4001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3714" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4544 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/A_4206A_4001">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4206А-4001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/A_4206A_4001" class="photolenta" style="background-image:url(/i/images/thumb.medium.51a8af479198b.jpg)"><img src="/i/images/thumb.medium.51a8af479198b.jpg" alt="Appella Ladies Fancy 4206А-4001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/4161" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4545 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4242A_1002">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4242A-1002</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4242A_1002" class="photolenta" style="background-image:url(/i/images/thumb.medium.522591cbcead9.jpg)"><img src="/i/images/thumb.medium.522591cbcead9.jpg" alt="Appella Ladies Fancy 4242A-1002" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/4380" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4733 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4301_4014">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4301-4014</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4301_4014" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe977549c489.jpg)"><img src="/i/images/thumb.medium.4fe977549c489.jpg" alt="Appella Classic 4301-4014" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3715" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3902 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4305_1004">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4305-1004</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4305_1004" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe9787c1374e.jpg)"><img src="/i/images/thumb.medium.4fe9787c1374e.jpg" alt="Appella Classic 4305-1004" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3716" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5497 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4307-1002">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4307-1002</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4307-1002" class="photolenta" style="background-image:url(/i/images/thumb.medium.50af6580f1f6a.jpg)"><img src="/i/images/thumb.medium.50af6580f1f6a.jpg" alt="Appella Classic 4307-1002" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3928" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5650 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_4326A_1011">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4326A-1011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_4326A_1011" class="photolenta" style="background-image:url(/i/images/thumb.medium.4fe97c83c86d7.jpg)"><img src="/i/images/thumb.medium.4fe97c83c86d7.jpg" alt="Appella Ladies Fancy 4326A-1011" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3717" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4595 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/A_4346A_4011">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>4346A-4011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+									<a href="/models/Appella/Ladies_Fancy/A_4346A_4011" class="photolenta" style="background-image:url(/img/nophoto.gif)"><img src="/img/nophoto.gif" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/4162" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4323 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4365_1014">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4365-1014</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4365_1014" class="photolenta" style="background-image:url(/i/images/thumb.medium.51daa6a11c9a0.jpg)"><img src="/i/images/thumb.medium.51daa6a11c9a0.jpg" alt="Appella Classic 4365-1014" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/4224" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5511 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_4369_1011">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>4369-1011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_4369_1011" class="photolenta" style="background-image:url(/i/images/thumb.medium.51daa73338760.jpg)"><img src="/i/images/thumb.medium.51daa73338760.jpg" alt="Appella Classic 4369-1011" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/4225" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5379 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_476_4001">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>476-4001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_476_4001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3b68e7bd85d.jpg)"><img src="/i/images/thumb.medium.4f3b68e7bd85d.jpg" alt="Appella Ladies Fancy 476-4001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3130" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3148 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Automatic/Appella_497_1005">
+                                                                        <h4> Appella Automatic </h4>
+                        <h3>497-1005</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Automatic/Appella_497_1005" class="photolenta" style="background-image:url(/i/images/thumb.medium.51a8a14aec58e.jpg)"><img src="/i/images/thumb.medium.51a8a14aec58e.jpg" alt="Appella Automatic 497-1005" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/1381" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        7990 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Square/Appella_585_3001">
+                                                                        <h4> Appella Square </h4>
+                        <h3>585-3001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Square/Appella_585_3001" class="photolenta" style="background-image:url(/i/images/thumb.medium.4d88c1250b1af.jpg)"><img src="/i/images/thumb.medium.4d88c1250b1af.jpg" alt="Appella Square 585-3001" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/59" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        5206 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Ladies_Fancy/Appella_668_5007">
+                                                                        <h4> Appella Ladies Fancy </h4>
+                        <h3>668-5007</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Ladies_Fancy/Appella_668_5007" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3b7a64491aa.jpg)"><img src="/i/images/thumb.medium.4f3b7a64491aa.jpg" alt="Appella Ladies Fancy 668-5007" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3133" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        4234 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_753_1011">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>753-1011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+									<a href="/models/Appella/Classic/Appella_753_1011" class="photolenta" style="background-image:url(/img/nophoto.gif)"><img src="/img/nophoto.gif" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3135" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3518 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_753_2014">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>753-2014</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+					
+					<a href="/models/Appella/Classic/Appella_753_2014" class="photolenta" style="background-image:url(/i/images/thumb.medium.4f3b7d7ad9494.jpg)"><img src="/i/images/thumb.medium.4f3b7d7ad9494.jpg" alt="Appella Classic 753-2014" /></a>
+				                <div class="in-stock"></div>
+
+				<a href="/feedback/3136" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3518 грн.     </strong></div>
+			</div>
+		</div>
+			<div class="lentaitem second"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Classic/Appella_781_1011">
+                                                                        <h4> Appella Classic </h4>
+                        <h3>781-1011</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+									<a href="/models/Appella/Classic/Appella_781_1011" class="photolenta" style="background-image:url(/img/nophoto.gif)"><img src="/img/nophoto.gif" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3137" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        3306 грн.     </strong></div>
+			</div>
+		</div>
+	<div class="break"></div>		<div class="lentaitem"><div class="lentaitem1">
+				<div class="lentaitem_head ">
+                    <a href="/models/Appella/Chronograph/Appella_795_1001">
+                                                                        <h4> Appella Chronograph </h4>
+                        <h3>795-1001</h3>
+                        <div style="clear: both"></div>
+                    </a>
+
+				</div>
+									<a href="/models/Appella/Chronograph/Appella_795_1001" class="photolenta" style="background-image:url(/img/nophoto.gif)"><img src="/img/nophoto.gif" /></a>
+				                <div class="in-stock">Часы в наличии </div>
+
+				<a href="/feedback/3718" class="order" onclick="_gaq.push(['_trackEvent', 'Покупка товара', 'Купить', 'Страница категории или поиска']);"><strong>Купить</strong></a>
+    <div class="price"><strong>
+        8050 грн.     </strong></div>
+			</div>
+		</div>
+	</div>
+<div class="break"></div>	<div class="break"></div>
+	<div class="paging">
+		
+					Показать <a href="/models/Appella/page:1/limit:20" >20</a> | <a href="/models/Appella/page:1/limit:50" >50</a> | <a href="/models/Appella/page:1/limit:100" >100</a> записей  &nbsp;
+					</div>
+		<br /><br />
+	
+						<div class="break"></div>
+					</td>
+
+	<td id="extra">
+		<div>
+		<div id="products_search">
+			<h3 class="filter_title">Фильтр</h3>
+			<form id="products_search_form" action="/products/search" method="post">
+				<select name="data[Product][view_id]" id="ProductViewId">
+<option value="0">-- Выберите вид --</option>
+<option value="1">Наручные</option>
+<option value="2">Настенные</option>
+<option value="3">Настольные</option>
+</select>				<select name="data[Product][brand_id]" id="ProductBrandId">
+<option value="">-- Производитель --</option>
+<option value="129">Adriatica</option>
+<option value="158">Anne Klein</option>
+<option value="118">Appella</option>
+<option value="146">Atlantic</option>
+<option value="145">BOCCIA</option>
+<option value="114">Buran</option>
+<option value="121">Candino</option>
+<option value="111">Casio</option>
+<option value="154">Christina Design</option>
+<option value="136">Edox</option>
+<option value="117">Festina</option>
+<option value="124">Frederique Constant</option>
+<option value="156">Guardo</option>
+<option value="155">Guess</option>
+<option value="125">Longines</option>
+<option value="128">Louis Erard</option>
+<option value="112">Orient</option>
+<option value="137">ORIS</option>
+<option value="113">Romanson</option>
+<option value="133">Royal London</option>
+<option value="157">SEIKO</option>
+<option value="149">SKAGEN</option>
+<option value="151">SWATCH</option>
+<option value="143">TIMEX</option>
+<option value="122">Tissot</option>
+<option value="144">VOSTOK EUROPE</option>
+<option value="153">Шкатулки  Salvadore</option>
+<option value="159">Шкатулки CRAFT</option>
+</select>				<select name="data[Product][type_id]" id="ProductTypeId">
+<option value="0">-- Выберите Механизм --</option>
+<option value="1">Механика</option>
+<option value="2">Кварц</option>
+<option value="3">Механика с автоподзаводом</option>
+<option value="4">С ручным заводом</option>
+</select>				<select name="data[Product][gender]" id="ProductGender">
+<option value="0">-- Пол --</option>
+<option value="1">Мужские</option>
+<option value="2">Женские</option>
+<option value="3">Унисекс</option>
+</select>				<select name="data[Product][water]" id="ProductWater">
+<option value="0">-- Водозащищенность --</option>
+<option value="1">30 м (3 BAR)</option>
+<option value="2">50 м (5 BAR)</option>
+<option value="3">100 м (10 BAR)</option>
+<option value="4">150 м (15 BAR)</option>
+<option value="5">200 м (20 BAR)</option>
+<option value="6"> 300 м (30  BAR)</option>
+<option value="7">500 м (50 BAR)</option>
+</select>				<select name="data[Product][bracelet]" id="ProductBracelet">
+<option value="0">-- Выберите браслет --</option>
+<option value="1">Ремень</option>
+<option value="2">Браслет</option>
+<option value="3">Нержавеющая сталь</option>
+<option value="4">Натуральная кожа</option>
+<option value="5">Каучук</option>
+<option value="6">Полимерный материал</option>
+<option value="7">Тканевый</option>
+</select>				<select name="data[Product][material]" id="ProductMaterial">
+<option value="0">-- Корпус --</option>
+<option value="1">Нержавеющая сталь</option>
+<option value="2">Сталь с покрытием PVD</option>
+<option value="3">Полимерный материал</option>
+<option value="4">Сталь с позолотой</option>
+<option value="5">Титан</option>
+<option value="6">Серебро</option>
+<option value="7">Золото</option>
+</select>				<div>Цена (грн):</div>
+				от <input type="text" name="data[Product][min]" value="" /> до <input type="text" name="data[Product][max]" value="" />
+			</form>
+		<input type="image" alt="Подобрать" id="submit" src="/img/search.png" name="image" onclick="getElementById('products_search_form').submit();"/>
+		</div>
+                        <div class="you_watched">
+                <h3 class="visited_pages_title">Вы смотрели</h3>
+                <div class="visited_pages_content">
+                    <p><a href='http://www.style-time.net/models/TIMEX/Calendar/Tx2k621'>TIMEX Calendar Tx2k621</a></p><p><a href='http://www.style-time.net/models/ORIS/Classic%20Date/733%207594%204031%20MB%208%2020%2061'>ORIS Classic Date 733 7594 4031 MB 8 20 61</a></p><p><a href='http://www.style-time.net/models/ORIS/Classic%20Date/733%207594%2048%2031%20LS%206%2020%2012'>ORIS Classic Date 733 7594 48 31 LS 6 20 12</a></p><p><a href='http://www.style-time.net/models/Romanson/Man/TM8201RM2T_WH'>Romanson Man TM8201RM2T WH</a></p><p><a href='http://www.style-time.net/models/Louis%20Erard/Heritage%20_/69267AA05'>Louis Erard Heritage _ 69267AA05 </a></p><p><a href='http://www.style-time.net/models/ORIS/Classic%20Date/733%207594%204334%20LS%205%2020%2011'>ORIS Classic Date 733 7594 4334 LS 5 20 11</a></p><p><a href='http://www.style-time.net/models/Candino/Tradition/Candino_C4292_2'>Candino Tradition C4292/2</a></p><p><a href='http://www.style-time.net/models/Christina%20Design/Christina%20for%20women/107GW'>Christina Design Christina for women 107GW</a></p><p><a href='http://www.style-time.net/models/Louis%20Erard/Heritage%20_/67258PR12'>Louis Erard Heritage _ 67258PR12</a></p><p><a href='http://www.style-time.net/models/Louis%20Erard/Heritage%20_/69257PR12'>Louis Erard Heritage _ 69257PR12</a></p><p><a href='http://www.style-time.net/models/Orient/Power_Reserve/CEZAD005T'>Orient Power Reserve CEZAD005T</a></p><p><a href='http://www.style-time.net/models/Orient/Power_Reserve/CFM00002B'>Orient Power Reserve CFM00002B</a></p><p><a href='http://www.style-time.net/models/Appella/Automatic/Appella_117_1102'>Appella Automatic 117-1102</a></p><p><a href='http://www.style-time.net/models/Appella/Square/Appella_181_1002'>Appella Square 181-1002</a></p><p><a href='http://www.style-time.net/models/Appella/Square/Appella_181_7004'>Appella Square 181_7004</a></p><p><a href='http://www.style-time.net/models/Appella/Square/Appella_215_2001'>Appella Square 215_2001</a></p><p><a href='http://www.style-time.net/models/Appella/Classic/Appella_317_2002'>Appella Classic 317-2002</a></p><p><a href='http://www.style-time.net/models/Appella/Dress_Watches/Appella_347_3003'>Appella Dress Watches 347-3003</a></p><p><a href='http://www.style-time.net/models/Appella/Chronograph/Appella_4003_7014'>Appella Chronograph 4003-7014</a></p><p><a href='http://www.style-time.net/models/Appella/Chronograph/Appella_4005_2011'>Appella Chronograph 4005-2011</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4014A_4017'>Appella Ladies Fancy 4014A-4017</a></p><p><a href='http://www.style-time.net/models/Appella/Automatic/Appella_4019_2011'>Appella Automatic 4019-2011</a></p><p><a href='http://www.style-time.net/models/Appella/Classic/Appella_4103_1004'>Appella Classic 4103-1004</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4126A-4011'>Appella Ladies Fancy 4126A-4011</a></p><p><a href='http://www.style-time.net/models/Appella/Automatic/Appella_417_1001'>Appella Automatic 417-1001</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4176A_1002'>Appella Ladies Fancy 4176A-1002</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4184A_4001'>Appella Ladies Fancy 4184A-4001</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4200A_4001'>Appella Ladies Fancy 4200A-4001</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/A_4206A_4001'>Appella Ladies Fancy 4206А-4001</a></p><p><a href='http://www.style-time.net/models/Appella/Ladies_Fancy/Appella_4242A_1002'>Appella Ladies Fancy 4242A-1002</a></p><p><a href='http://www.style-time.net/models/Appella/Classic/Appella_4301_4014'>Appella Classic 4301-4014</a></p><p><a href='http://www.style-time.net/models/Appella/Classic/Appella_4305_1004'>Appella Classic 4305-1004</a></p>                </div>
+                <div class="menu_bottom"></div>
+            </div>
+            		<div id="banner">
+												<a href="/models/Tissot" title="Десятки моделей на любой вкус. Tissot."><img src="/i/banners/banner4.gif" alt="Десятки моделей на любой вкус. Tissot." /></a>
+									<a href="/search/material-7" title="Золотая коллекция Стиль Тайм"><img src="/i/banners/banner1.gif" alt="Золотая коллекция Стиль Тайм" /></a>
+									</div>
+
+			<ul>
+				<li>
+										<strong>Энциклопедия</strong>
+					<ul>
+												<li>
+														<a href="/articles/5">Японские часы и все о них</a>
+													</li>
+												<li>
+														<a href="/articles/4">Швейцарские</a>
+													</li>
+												<li>
+														<a href="/articles/2">Особые функции</a>
+													</li>
+												<li>
+														<a href="/articles/3">Как выбрать</a>
+													</li>
+												<li>
+														<a href="/articles/1">Из истории</a>
+													</li>
+											</ul>
+				</li>
+				<li>
+										<a href="/dictionary"><strong>Словарь терминов</strong></a>
+									</li>
+				<li>
+										<a href="/facts"><strong>Интересно знать</strong></a>
+									</li>
+				<li>
+					<strong>Новости</strong>
+					<ul>
+												<li>
+														<a href="/news/2">Новости мира времени</a>
+													</li>
+											</ul>
+				</li>
+			</ul>
+								<div id="teaser">
+					<h3>Знаете ли вы, что&#133;</h3>
+					<p>что погрешность атомных часов составляет  одну секунду за шесть миллионов лет.</p>
+				</div>
+								<div class="menu_top"></div>
+								<div class="menu_bottom"></div>
+		</div>
+		<br /><br />
+		</td>
+		</tr>
+		</table>
+
+	</div>
+
+	<div id="clear"></div>
+</div>
+
+<!--
+<div id="topper">
+    <table>
+    <tr>
+    <td></td>
+	<td class="C" colspan="2">
+		<div id="red_top_line"><div>
+			<img src="/img/red_line_right.gif" usemap="#nav">
+
+		<form action="http://style-time.net/pages/google_search/" id="cse-search-box">
+		  <div>
+			<ul class="top_menu">
+				<li>
+										<a href="/pages/aboutus">Магазин</a>
+									</li>
+				<li>
+										<a href="/pages/payments">Оплата</a>
+									</li>
+				<li>
+										<a href="/pages/shipping">Доставка</a>
+									</li>
+				<li>
+										<a href="/pages/guarantee">Гарантии</a>
+									</li>
+				<li>
+										<a href="/feedback/">Контакты</a>
+									</li>
+			</ul>
+		    <input type="hidden" name="cx" value="014892499918120978954:jqhdogiwlc8" />
+		    <input type="hidden" name="cof" value="FORID:9" />
+		    <input type="hidden" name="ie" value="Windows-1251" />
+		    <input type="text" name="q" size="22" />
+		    <input type="submit" name="sa" value="Поиск" />
+		  </div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=ru"></script>
+  </div></div>
+		
+	</td>
+	<hr />
+	</tr>
+	<tr>
+	<td class="L">
+		<a href="/" id="logo" title="Стиль Тайм"><span>Стиль Тайм</span></a>
+	</td>
+	<td></td>
+	<td class="R">
+		<div id="contacts">
+		   <span>(050)</span> 487-10-10<br/>
+		   <span>(044)</span> 361-10-10
+		</div>
+	</td>
+	</tr>
+	</table>
+</div>
+-->
+
+<div id="footer"><hr />
+	<div class="C">
+		<div class="content">
+			<div style="float:left;">
+				Copyright 2007-2013 магазин часов &laquo;Стиль-Тайм&raquo;
+	<br />
+									<a href="/pages/aboutus">О интернет магазине часов</a>
+				|
+								<a href="/feedback">Свяжитесь с нами</a>
+				|
+								<a href="/map">Карта сайта</a>
+							</div>
+			<div id="baners">
+				<noindex>
+				<!-- begin of Top100 logo -->
+				<a href="http://top100.rambler.ru/home?id=1782491" style="float:left; padding:0px 15px 0px 15px;" target="_blank" rel="nofollow"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-brown2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+				<!-- end of Top100 logo -->
+				<!--Логотип статистики-->
+				<a href='http://www.stat24.meta.ua' target='_blank' rel="nofollow"><img border='0'
+				src='http://stat24.meta.ua/img/counter/9.gif' /></a>
+				<!-- stat24 clickMap --><script type='text/javascript'
+				src='http://s2.hit.stat24.com/scriptxy.js?id=nGs66If051f8FeZgznS8uPU5XqwpyG9qqzP6U7EqjZ7.27/align=center/type=percent'></script>
+				</noindex>
+				<a title="Разработка компания onix" href="http://onix.ua" rel="nofollow" id="onix_logo_ru"><span>Разработка компания onix</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+<noindex>
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1782491"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1782491" alt="" width="1" height="1" border="0" /></noscript>
+<!-- end of Top100 code -->
+<script type='text/javascript'>
+<!--
+var st24Date=(new Date()).getTime();
+var st24Src='http://ua5.hit.stat24.com/_'+st24Date;
+st24Src+='/script.js?id=';
+st24Src+='B8.r4GOtbAPtJkARMdzrs5a1rjyRXI_WTFWno038pYv.E7/l=11';
+var st24Tg='<'+'scr'+'ipt type="text/javascript" src="';
+document.writeln(st24Tg+st24Src+'"></'+'scr'+'ipt>');
+//-->
+</script>
+</noindex>
+</body>

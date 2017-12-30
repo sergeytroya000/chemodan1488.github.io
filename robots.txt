@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /buy/
+Disallow: /search*
+Disallow: /map*
+Disallow: /search*
+Disallow: /products/recommendations/*
+Disallow: /products*
+Disallow: /feedback/*
+Disallow: /models/Guess/Women 
+Disallow: /models/Guess/Men 
+Disallow: /news/1 
+Disallow: /models/SEIKO/Diver 
+Disallow: /news/2/4 
+Disallow: /Jenskie_chasi/5896_33_12 
+Disallow: /TIMEX/Chronograph%20Men
+Disallow: /Casio/Sea_Pathfinder 
+Disallow: /Auguste_Reymond 
+Disallow: /Chrono/20042BPL-1L 
+Disallow: /Jenskie_chasi/5897_33_62
+
+Host: www.style-time.net
+Sitemap: http://www.style-time.net/sitemap.xml
